@@ -6,6 +6,7 @@ Hi there 👋 I'm 521Peter, a developer from Guangzhou.
 
 | Repo | PR |
 |------|----|
+| [jeshraghian/snntorch](https://github.com/jeshraghian/snntorch) ![GitHub Repo stars](https://img.shields.io/github/stars/jeshraghian/snntorch?style=social) | [Fix the RSynaptic documentation example · Pull Request #471](https://github.com/jeshraghian/snntorch/pull/471) |
 | [jeshraghian/snntorch](https://github.com/jeshraghian/snntorch) ![GitHub Repo stars](https://img.shields.io/github/stars/jeshraghian/snntorch?style=social) | [Fix negative target values in rate encoding · Pull Request #466](https://github.com/jeshraghian/snntorch/pull/466) |
 | [jeshraghian/snntorch](https://github.com/jeshraghian/snntorch) ![GitHub Repo stars](https://img.shields.io/github/stars/jeshraghian/snntorch?style=social) | [Fix MultiSpike extraction across batched samples · Pull Request #464](https://github.com/jeshraghian/snntorch/pull/464) |
 | [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(claudecode): import nested subagents · Pull Request #3187](https://github.com/dyoshikawa/rulesync/pull/3187) |
