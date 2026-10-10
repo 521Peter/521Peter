@@ -6,6 +6,7 @@ Hi there 👋 I'm 521Peter, a developer from Guangzhou.
 
 | Repo | PR |
 |------|----|
+| [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(update): ignore build metadata when comparing versions · Pull Request #3378](https://github.com/dyoshikawa/rulesync/pull/3378) |
 | [jeshraghian/snntorch](https://github.com/jeshraghian/snntorch) ![GitHub Repo stars](https://img.shields.io/github/stars/jeshraghian/snntorch?style=social) | [Fix time-axis broadcasting in rate-coded targets · Pull Request #474](https://github.com/jeshraghian/snntorch/pull/474) |
 | [jeshraghian/snntorch](https://github.com/jeshraghian/snntorch) ![GitHub Repo stars](https://img.shields.io/github/stars/jeshraghian/snntorch?style=social) | [Fix the RSynaptic documentation example · Pull Request #471](https://github.com/jeshraghian/snntorch/pull/471) |
 | [jeshraghian/snntorch](https://github.com/jeshraghian/snntorch) ![GitHub Repo stars](https://img.shields.io/github/stars/jeshraghian/snntorch?style=social) | [Fix negative target values in rate encoding · Pull Request #466](https://github.com/jeshraghian/snntorch/pull/466) |
