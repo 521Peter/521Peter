@@ -6,6 +6,10 @@ Hi there 👋 I'm 521Peter, a developer from Guangzhou.
 
 | Repo | PR |
 |------|----|
+| [jeshraghian/snntorch](https://github.com/jeshraghian/snntorch) ![GitHub Repo stars](https://img.shields.io/github/stars/jeshraghian/snntorch?style=social) | [Forward latency target options in targets_convert · Pull Request #476](https://github.com/jeshraghian/snntorch/pull/476) |
+| [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [test(ci): locate contributor policy step by name · Pull Request #3558](https://github.com/dyoshikawa/rulesync/pull/3558) |
+| [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(ci): skip bot authors in contributor policy · Pull Request #3550](https://github.com/dyoshikawa/rulesync/pull/3550) |
+| [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(release-notes): reject nonexistent calendar dates · Pull Request #3436](https://github.com/dyoshikawa/rulesync/pull/3436) |
 | [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(fetch): decode source URL refs and paths · Pull Request #3401](https://github.com/dyoshikawa/rulesync/pull/3401) |
 | [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(update): ignore build metadata when comparing versions · Pull Request #3378](https://github.com/dyoshikawa/rulesync/pull/3378) |
 | [jeshraghian/snntorch](https://github.com/jeshraghian/snntorch) ![GitHub Repo stars](https://img.shields.io/github/stars/jeshraghian/snntorch?style=social) | [Fix time-axis broadcasting in rate-coded targets · Pull Request #474](https://github.com/jeshraghian/snntorch/pull/474) |
