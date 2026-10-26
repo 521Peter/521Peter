@@ -6,6 +6,10 @@ Hi there 👋 I'm 521Peter, a developer from Guangzhou.
 
 | Repo | PR |
 |------|----|
+| [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(amp): skip malformed skills in the native global discovery root · Pull Request #3628](https://github.com/dyoshikawa/rulesync/pull/3628) |
+| [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(amp): import skills from additional global discovery roots · Pull Request #3617](https://github.com/dyoshikawa/rulesync/pull/3617) |
+| [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(copilotcli): accept list-valued subagent model · Pull Request #3602](https://github.com/dyoshikawa/rulesync/pull/3602) |
+| [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(npm): accept explicit NODE_AUTH_TOKEN credentials · Pull Request #3569](https://github.com/dyoshikawa/rulesync/pull/3569) |
 | [jeshraghian/snntorch](https://github.com/jeshraghian/snntorch) ![GitHub Repo stars](https://img.shields.io/github/stars/jeshraghian/snntorch?style=social) | [Forward latency target options in targets_convert · Pull Request #476](https://github.com/jeshraghian/snntorch/pull/476) |
 | [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [test(ci): locate contributor policy step by name · Pull Request #3558](https://github.com/dyoshikawa/rulesync/pull/3558) |
 | [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(ci): skip bot authors in contributor policy · Pull Request #3550](https://github.com/dyoshikawa/rulesync/pull/3550) |
