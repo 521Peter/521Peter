@@ -6,6 +6,8 @@ Hi there 👋 I'm 521Peter, a developer from Guangzhou.
 
 | Repo | PR |
 |------|----|
+| [Datus-ai/Datus-agent](https://github.com/Datus-ai/Datus-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/Datus-ai/Datus-agent?style=social) | [\[BugFix\] Handle auto-review error sentinel · Pull Request #1417](https://github.com/Datus-ai/Datus-agent/pull/1417) |
+| [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(qoder): measure summary warnings after whitespace normalization · Pull Request #3657](https://github.com/dyoshikawa/rulesync/pull/3657) |
 | [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(amp): skip malformed skills in the native global discovery root · Pull Request #3628](https://github.com/dyoshikawa/rulesync/pull/3628) |
 | [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(amp): import skills from additional global discovery roots · Pull Request #3617](https://github.com/dyoshikawa/rulesync/pull/3617) |
 | [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [fix(copilotcli): accept list-valued subagent model · Pull Request #3602](https://github.com/dyoshikawa/rulesync/pull/3602) |
