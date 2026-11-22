@@ -6,6 +6,9 @@ Hi there 👋 I'm 521Peter, a developer from Guangzhou.
 
 | Repo | PR |
 |------|----|
+| [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/sentence-transformers?style=social) | [\[fix\] Pass the primary score to CrossEncoder.old_fit callbacks · Pull Request #4419](https://github.com/huggingface/sentence-transformers/pull/4419) |
+| [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [test(crush): cover global lifecycle hook round trip · Pull Request #3871](https://github.com/dyoshikawa/rulesync/pull/3871) |
+| [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [docs(sources): explain local skill invocation overrides · Pull Request #3859](https://github.com/dyoshikawa/rulesync/pull/3859) |
 | [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [docs(sources): explain sharing config outside install lockfiles · Pull Request #3850](https://github.com/dyoshikawa/rulesync/pull/3850) |
 | [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [docs(cortexcode): clarify project-mode MCP behavior · Pull Request #3844](https://github.com/dyoshikawa/rulesync/pull/3844) |
 | [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) | [docs(cortexcode): make configuration scope requirements explicit · Pull Request #3839](https://github.com/dyoshikawa/rulesync/pull/3839) |
